@@ -1,40 +1,40 @@
 <h2 align="center">
-    ──「 ᴀɴᴏɴ ダ ᴍᴜsɪᴄ 」──
+    ──「 ❤️👑𓊈⋆⃟⧉⃞AFSANA𓆩❤️𓆪QUEEN⋆⃟𓊉 👑❤️『❣️』 」──
 </h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/56d1760224589ee370186.jpg">
+  <img src="https://telegra.ph/file/34a96dcc111f21485fe36.jpg">
 </p>
 
 <p align="center">
-<a href="https://github.com/TheAnonymous2005/AnonXMusic/stargazers"><img src="https://img.shields.io/github/stars/TheAnonymous2005/AnonXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/TheAnonymous2005/AnonXMusic/network/members"> <img src="https://img.shields.io/github/forks/TheAnonymous2005/AnonXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/TheAnonymous2005/AnonXMusic/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/Sankifighter07/MAHAKAL_MUSIC_BOT/stargazers"><img src="https://img.shields.io/github/stars/sankifighter07/MAHAKAL_MUSIC_BOT?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/Sankifighter07/MAHAKAL_MUSIC_BOT/network/members"> <img src="https://img.shields.io/github/forks/sankifighter07/MAHAKAL_MUSIC_BOT?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/Sankifighter07/MAHAKAL_MUSIC_BOT/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
 <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=yellow&label=pyrogram&logo=python&logoColor=green&style=for-the-badge" /></a>
-<a href="https://github.com/TheAnonymous2005/AnonXMusic/commits/AnonymousR1025"> <img src="https://img.shields.io/github/last-commit/TheAnonymous2005/AnonXMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/Sankifighter07/MAHAKAL_MUSIC_BOT/commits/AnonymousR1025"> <img src="https://img.shields.io/github/last-commit/sankifighter07/MAHAKAL_MUSIC_BOT?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
 <p align="center">
-  <img src="https://telegra.ph/file/36be820a8775f0bfc773e.jpg">
+  <img src="https://telegra.ph/file/a2642aeffee82153444ff.mp4">
 </p>
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/TheAnonymous2005/AnonXMusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Sankifighter07/MAHAKAL_MUSIC_BOT"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <h3 align="center">
     ─「 sᴜᴩᴩᴏʀᴛ 」─
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/DevilsHeavenMF"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/freinds_hindi_chatting_group_126"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://telegram.me/FallenAssociation"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/attiudedp"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <h3 align="center">
@@ -50,5 +50,5 @@
 <a href="https://github.com/TheHamkerCat"> <img src="https://img.shields.io/badge/TheHamkerCat-black?style=for-the-badge&logo=github" alt="TheHamkerCat" /> </a>
 </p>
 
-- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ʏᴜᴋᴋɪ](https://github.com/TeamYukki) ғᴏʀ [ʏᴜᴋᴋɪ ᴍᴜsɪᴄ ʙᴏᴛ](https://github.com/TeamYukki/YukkiMusicBot)_ </b>
+- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [❤️👑𓊈⋆⃟⧉⃞AFSANA𓆩❤️𓆪QUEEN⋆⃟𓊉 👑❤️『❣️』](https://github.com/sankifighter07) ғᴏʀ [❤️👑𓊈⋆⃟⧉⃞AFSANA𓆩❤️𓆪QUEEN⋆⃟𓊉 👑❤️『❣️』](https://github.com/sankifighter07/MAHAKAL_MUSIC_BOT)_ </b>
 
