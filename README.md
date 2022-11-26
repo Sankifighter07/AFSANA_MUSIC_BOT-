@@ -50,5 +50,5 @@
 <a href="https://github.com/TheHamkerCat"> <img src="https://img.shields.io/badge/TheHamkerCat-black?style=for-the-badge&logo=github" alt="TheHamkerCat" /> </a>
 </p>
 
-- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [❤️👑𓊈⋆⃟⧉⃞AFSANA𓆩❤️𓆪QUEEN⋆⃟𓊉 👑❤️『❣️』](https://github.com/sankifighter07) ғᴏʀ [❤️👑𓊈⋆⃟⧉⃞AFSANA𓆩❤️𓆪QUEEN⋆⃟𓊉 👑❤️『❣️』](https://github.com/sankifighter07/MAHAKAL_MUSIC_BOT)_ </b>
+- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [❤️👑𓊈⋆⃟⧉⃞AFSANA𓆩❤️𓆪QUEEN⋆⃟𓊉 👑❤️『❣️』](https://github.com/sankifighter07) ғᴏʀ [✼➢Rᴀᴊᴘᴜᴛ‿✶Kᴀ❣Cʜʜᴏʀᴀ👑](https://github.com/sankifighter07/MAHAKAL_MUSIC_BOT)_ </b>
 
