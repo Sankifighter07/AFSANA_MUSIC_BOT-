@@ -7,12 +7,12 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/Sankifighter07/MAHAKAL_MUSIC_BOT/stargazers"><img src="https://img.shields.io/github/stars/sankifighter07/MAHAKAL_MUSIC_BOT?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/Sankifighter07/MAHAKAL_MUSIC_BOT/network/members"> <img src="https://img.shields.io/github/forks/sankifighter07/MAHAKAL_MUSIC_BOT?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/Sankifighter07/MAHAKAL_MUSIC_BOT/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/Sankifighter07/MAHAKAL_MUSIC_BOT-/stargazers"><img src="https://img.shields.io/github/stars/sankifighter07/MAHAKAL_MUSIC_BOT-?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/Sankifighter07/MAHAKAL_MUSIC_BOT-/network/members"> <img src="https://img.shields.io/github/forks/sankifighter07/MAHAKAL_MUSIC_BOT-?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/Sankifighter07/MAHAKAL_MUSIC_BOT-/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
 <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=yellow&label=pyrogram&logo=python&logoColor=green&style=for-the-badge" /></a>
-<a href="https://github.com/Sankifighter07/MAHAKAL_MUSIC_BOT/commits/AnonymousR1025"> <img src="https://img.shields.io/github/last-commit/sankifighter07/MAHAKAL_MUSIC_BOT?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/Sankifighter07/MAHAKAL_MUSIC_BOT-/commits/AnonymousR1025"> <img src="https://img.shields.io/github/last-commit/sankifighter07/MAHAKAL_MUSIC_BOT-?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Sankifighter07/MAHAKAL_MUSIC_BOT"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Sankifighter07/MAHAKAL_MUSIC_BOT-"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <h3 align="center">
     ─「 sᴜᴩᴩᴏʀᴛ 」─
@@ -50,5 +50,5 @@
 <a href="https://github.com/TheHamkerCat"> <img src="https://img.shields.io/badge/TheHamkerCat-black?style=for-the-badge&logo=github" alt="TheHamkerCat" /> </a>
 </p>
 
-- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [❤️👑𓊈⋆⃟⧉⃞AFSANA𓆩❤️𓆪QUEEN⋆⃟𓊉 👑❤️『❣️』](https://github.com/sankifighter07) ғᴏʀ [✼➢Rᴀᴊᴘᴜᴛ‿✶Kᴀ❣Cʜʜᴏʀᴀ👑](https://github.com/sankifighter07/MAHAKAL_MUSIC_BOT)_ </b>
+- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [❤️👑𓊈⋆⃟⧉⃞AFSANA𓆩❤️𓆪QUEEN⋆⃟𓊉 👑❤️『❣️』](https://github.com/sankifighter07) ғᴏʀ [✼➢Rᴀᴊᴘᴜᴛ‿✶Kᴀ❣Cʜʜᴏʀᴀ👑](https://github.com/sankifighter07/MAHAKAL_MUSIC_BOT-)_ </b>
 
