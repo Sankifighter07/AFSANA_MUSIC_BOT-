@@ -76,11 +76,11 @@ clean = {}
 autoclean = []
 
 
-START_IMG_URL = getenv("START_IMG_URL", "https://graph.org/file/a4ec13019d30431394575.mp4")
+START_IMG_URL = getenv("START_IMG_URL", "https://graph.org/file/7f4d9be36b99541141537.jpg")
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://telegra.ph/file/4b1f3287882f443d93fe1.mp4",)
+    "https://graph.org/file/58c9edff79ed6831c05a8.jpg",)
 
 PLAYLIST_IMG_URL = "https://telegra.ph/file/790f697cbaf238782bfa2.jpg"
 
@@ -129,9 +129,9 @@ if UPSTREAM_REPO:
 if PING_IMG_URL:
     if PING_IMG_URL != "assets/Ping.jpeg":
         if not re.match("(?:http|https)://", PING_IMG_URL):
-            PING_IMG_URL = "https://telegra.ph/file/4b1f3287882f443d93fe1.mp4"
+            PING_IMG_URL = "https://graph.org/file/58c9edff79ed6831c05a8.jpg"
 
 if START_IMG_URL:
     if START_IMG_URL != "assets/Ping.jpeg":
         if not re.match("(?:http|https)://", START_IMG_URL):
-            START_IMG_URL = "https://graph.org/file/a4ec13019d30431394575.mp4"
+            START_IMG_URL = "https://graph.org/file/7f4d9be36b99541141537.jpg"
